@@ -1,0 +1,54 @@
+body{
+background-image: url("kepek/hatter.png");
+}
+#fejlec{
+height: 100px;
+width: 100%;
+background-color: #f0addb;
+border-style:groove;
+border-width: 5px;
+border-color: #9957cd;
+color: #9957cd;
+text-align:center;
+}
+
+img {display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+h1{
+font-size:300%;
+}
+
+#keret{
+padding: 20px 120px 20px 20px;
+background-color: #ff5ba5;
+color: #ffffff;
+font-family: "Comic Sans MS";
+margin-inline: 25%;
+}
+
+li{
+font-weight:bold; list-style-image: url(kepek/ikon.png);
+}
+
+h2{
+font-size: 200%;
+}
+
+h3 {font-size: 150%; text-indent: 10px}
+p{
+text-align: justify; text-indent: 20px
+}
+
+#gomb {background-color: #9957cd;
+color: white;
+padding: 15px 32px;
+text-align: center;
+display: inline-block;
+font-size: 200%;
+margin: 30px 15px;
+cursor: pointer;}
+a {color: #ffffff}
+
+#bevezeto {font-style: italic;}
